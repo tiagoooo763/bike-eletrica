@@ -1,0 +1,13 @@
+{
+  "name": "monster-ebikes-v9max",
+  "version": "1.0.0",
+  "description": "Monster E Bikes — Bicicleta Elétrica V9 Max 1000W",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Monster E Bikes",
+  "license": "ISC"
+}
